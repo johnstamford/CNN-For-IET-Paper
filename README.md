@@ -1,11 +1,11 @@
 ## Synopsis
 
-This is the practical implementation of the paper title "Scene Detection using Convolutional Neural Networks" which was published at the 2nd IET International Conference on Technologies for Active and Assisted Living 
+This is the practical implementation of the paper titled "Scene Detection using Convolutional Neural Networks" which was published at the 2nd IET International Conference on Technologies for Active and Assisted Living 
 
 Citation:
 Stamford. J, and Peach. B, (2016) “Scene Detection using Convolutional Neural Networks”,  2nd IET International Conference on Technologies for Active and Assisted Living
 
-[Paper Availbale Here](http://johnstamford.com/wp-content/uploads/2016/11/StamfordPeach_SceneDetection.pdf)
+[Paper Available Here](http://johnstamford.com/wp-content/uploads/2016/11/StamfordPeach_SceneDetection.pdf)
 
 
 ## Use
@@ -25,5 +25,5 @@ To run this code you will need...
 * Theano
 * [SKNN](https://scikit-neuralnetwork.readthedocs.io/en/latest/#)
 
-I recommend install Anaconda Python.
+I recommend installing Anaconda Python.
 
